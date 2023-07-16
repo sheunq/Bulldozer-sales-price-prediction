@@ -1,4 +1,5 @@
 # Bulldozer-sales-price-prediction
+<img src="https://nmccat.com/wp-content/uploads/2020/05/Cat-Bulldozer.jpg" alt="gcp" width="1965" height="400"/>
 About Data
 Problem defition How well can we predict the future sale price of a bulldozer, given its characteristics and previous examples of how much similar bulldozers have been sold for?
 
